@@ -57,7 +57,7 @@ Make sure to explore the data, handle any missing values, and perform necessary 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Ashutoshdas-dev/Movie-Recommender-System
+   [git clone https://github.com/Ash-D3v/Movie-Recommender-System.git}
    cd movie-recommender-system
    ```
 
